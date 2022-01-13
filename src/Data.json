@@ -1,0 +1,15 @@
+[
+    {
+        "state": "Washington",
+        "link": "https://www.nytimes.com/interactive/2021/us/washington-covid-cases.html"
+        
+    },
+    {
+        "state": "Oregon",
+        "link": "https://www.nytimes.com/interactive/2021/us/oregon-covid-cases.html"
+    },
+    {
+        "state": "California",
+        "link": "https://www.nytimes.com/interactive/2021/us/california-covid-cases.html"
+    }
+]
